@@ -24,11 +24,11 @@
 ### SOC Automation & Threat Response Platform
 
 This is my comprehensive home SOC lab.I engineered and deployed **Wazuh (SIEM)** and **Suricata (IDS/IPS)** for continuous endpoint protection and network traffic monitoring.
+>
+>**Key Achievement:** I automated incident response by integrating Wazuh File Integrity Monitoring with VirusTotal, which automatically removes malicious files and **reduced manual response time by 40%**. 
+>**Impact:** The automation pipeline parses 500+ daily logs and uses behavioral baselining to **reduce false positives by 20%**, improving analyst triage.
 
-**Key Achievement:** I automated incident response by integrating Wazuh File Integrity Monitoring with VirusTotal, which automatically removes malicious files and **reduced manual response time by 40%**. 
-**Impact:** The automation pipeline parses 500+ daily logs and uses behavioral baselining to **reduce false positives by 20%**, improving analyst triage.
-
-**Repository:** [https://github.com/rajeshmantri2711/wazuh-linux](https://github.com/rajeshmantri2711/wazuh-linux) 
+>**Repository:** [https://github.com/rajeshmantri2711/wazuh-linux](https://github.com/rajeshmantri2711/wazuh-linux) 
 ---
 
 <div align="center">
