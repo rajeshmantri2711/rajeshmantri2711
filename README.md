@@ -12,18 +12,20 @@
   <img src="https://img.shields.io/badge/IoT-5E5E5E?style=for-the-badge&logo=iot&logoColor=white" alt="IoT" />
   <img src="https://img.shields.io/badge/Red_Teaming-D00000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Red Teaming" />
 </p>
+
 ---
+
 <div align="center">
 <h2>Projects</h2>
 </div>
 
 ---
 
-div align="center">
+<div align="center">
 <h2>TryHackMe</h2>
 </div>
 
 ---
-div align="center">
+<div align="center">
 <h2>TryHackMe</h2>
 </div>
