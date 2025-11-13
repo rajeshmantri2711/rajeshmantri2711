@@ -27,5 +27,5 @@
 
 ---
 <div align="center">
-<h2>TryHackMe</h2>
+<h2>Certifications & Badges</h2>
 </div>
