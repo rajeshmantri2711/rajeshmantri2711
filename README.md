@@ -26,7 +26,7 @@
 </div>
 
 
-This is my comprehensive home SOC lab.I engineered and deployed ` Wazuh ` (SIEM) and ` Suricata ` (IDS/IPS) for continuous endpoint protection and network traffic monitoring.
+This is my comprehensive home SOC lab.I deployed ` Wazuh ` (SIEM) and ` Suricata ` (IDS/IPS) for continuous endpoint protection and network traffic monitoring.
 >
 > **Key Achievement:** I automated incident response by integrating Wazuh File Integrity Monitoring with VirusTotal, which automatically removes malicious files and **reduced manual response time by `40%`**.
 >
