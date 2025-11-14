@@ -21,7 +21,10 @@
 
 ---
 
-### SOC Automation & Threat Response Platform
+<div align="center">
+<h3>SOC Automation & Threat Response Platform</h3>
+</div>
+
 
 This is my comprehensive home SOC lab.I engineered and deployed **Wazuh (SIEM)** and **Suricata (IDS/IPS)** for continuous endpoint protection and network traffic monitoring.
 >
