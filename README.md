@@ -8,9 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-0078D4?style=for-the-badge&logo=protectwise&logoColor=white" alt="Cybersecurity" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Blue_Teaming-0078D4?style=for-the-badge&logo=wazuh&logoColor=white" alt="Blue Teaming" />
   <img src="https://img.shields.io/badge/IoT-5E5E5E?style=for-the-badge&logo=iot&logoColor=white" alt="IoT" />
-  <img src="https://img.shields.io/badge/Red_Teaming-D00000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Red Teaming" />
 </p>
 
 ---
@@ -22,7 +20,7 @@
 ---
 
 <div align="center">
-<h3>SOC Automation & Threat Response Platform</h3>
+<h3>SOC using Wazuh</h3>
 </div>
 
 
