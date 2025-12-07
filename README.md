@@ -3,7 +3,7 @@
 </div>
 
 
-<p align="center">As an undergraduate and cybersecurity enthusiast, I'm always leveling up my skills, specializing in SOC operations and threat hunting. I'm passionate about engineering security solutions and love building hands-on projects in my home lab.</p>
+<p align="center">As an undergraduate and cybersecurity enthusiast, I'm always leveling up my skills, specializing in SOC operations and threat hunting. I'm passionate about engineering security solutions and love building hands-on projects.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-0078D4?style=for-the-badge&logo=protectwise&logoColor=white" alt="Cybersecurity" />
