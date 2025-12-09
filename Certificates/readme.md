@@ -9,10 +9,10 @@
 - [Deloitte Cybersecurity](./deloitte_cybersec.jpg)
 - [Mastercard Cybersecurity](./mastercard_cybersec.jpg)
 - [Network Fundamentals (Palo Alto)](./network%20fundamentals%20(palo).jpg)
-- [RAJESH MANTRI - CLDS](./RAJESH%20MANTRI-CLDS.jpg)
-- [RAJESH MANTRI - CYB](./RAJESH%20MANTRI-CYB.jpg)
-- [RAJESH MANTRI - CYES](./RAJESH%20MANTRI-CYES.jpg)
-- [RAJESH MANTRI - PT](./RAJESH%20MANTRI-PT.jpg)
+- [CLDS](./RAJESH%20MANTRI-CLDS.jpg)
+- [CYB](./RAJESH%20MANTRI-CYB.jpg)
+- [CYES](./RAJESH%20MANTRI-CYES.jpg)
+- [Packet Tracer](./RAJESH%20MANTRI-PT.jpg)
 
 ---
 
