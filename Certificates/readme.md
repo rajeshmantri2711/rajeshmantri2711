@@ -1,3 +1,23 @@
+## Certificates
+
+- [Cisco AICTE](./Cisco_Aicte.jpg)
+- [CCNA: Introduction to Networks](./ccna%20introduction%20to%20networks.jpg)
+- [Cloud Security Fundamentals (Palo Alto)](./cloud%20security%20fundamentals%20(palo).jpg)
+- [CyberOps](./cyberops.jpg)
+- [Cybersecurity (IBM)](./cybersecurityIBM.jpg)
+- [Cybersecurity Fundamentals (Palo Alto)](./cybersecurity_fundamentals_(palo).jpg)
+- [Deloitte Cybersecurity](./deloitte_cybersec.jpg)
+- [Mastercard Cybersecurity](./mastercard_cybersec.jpg)
+- [Network Fundamentals (Palo Alto)](./network%20fundamentals%20(palo).jpg)
+- [RAJESH MANTRI - CLDS](./RAJESH%20MANTRI-CLDS.jpg)
+- [RAJESH MANTRI - CYB](./RAJESH%20MANTRI-CYB.jpg)
+- [RAJESH MANTRI - CYES](./RAJESH%20MANTRI-CYES.jpg)
+- [RAJESH MANTRI - PT](./RAJESH%20MANTRI-PT.jpg)
+
+---
+
+
+
 <p align="center">
   <img src="./Cisco_Aicte.jpg" alt="Cisco Aicte" style="max-width:900px; width:100%; height:auto;" />
 </p>
