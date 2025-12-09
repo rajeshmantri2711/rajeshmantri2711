@@ -42,17 +42,20 @@ This is my comprehensive home SOC lab.I deployed ` Wazuh ` (SIEM) and ` Suricata
 <div align="center">
 <h2>Certifications & Badges</h2>
 </div>
-- [Cisco AICTE](./Cisco_Aicte.jpg)
-- [CCNA: Introduction to Networks](./ccna%20introduction%20to%20networks.jpg)
-- [Cloud Security Fundamentals (Palo Alto)](./cloud%20security%20fundamentals%20(palo).jpg)
-- [CyberOps](./cyberops.jpg)
-- [Cybersecurity (IBM)](./cybersecurityIBM.jpg)
-- [Cybersecurity Fundamentals (Palo Alto)](./cybersecurity_fundamentals_(palo).jpg)
-- [Deloitte Cybersecurity](./deloitte_cybersec.jpg)
-- [Mastercard Cybersecurity](./mastercard_cybersec.jpg)
-- [Network Fundamentals (Palo Alto)](./network%20fundamentals%20(palo).jpg)
-- [RAJESH MANTRI - CLDS](./RAJESH%20MANTRI-CLDS.jpg)
-- [RAJESH MANTRI - CYB](./RAJESH%20MANTRI-CYB.jpg)
-- [RAJESH MANTRI - CYES](./RAJESH%20MANTRI-CYES.jpg)
-- [RAJESH MANTRI - PT](./RAJESH%20MANTRI-PT.jpg)
+
+
+- [Cisco AICTE](./Certificates/Cisco_Aicte.jpg)
+- [CCNA: Introduction to Networks](./Certificates/ccna%20introduction%20to%20networks.jpg)
+- [Cloud Security Fundamentals (Palo Alto)](./Certificates/cloud%20security%20fundamentals%20(palo).jpg)
+- [CyberOps](./Certificates/cyberops.jpg)
+- [Cybersecurity (IBM)](./Certificates/cybersecurityIBM.jpg)
+- [Cybersecurity Fundamentals (Palo Alto)](./Certificates/cybersecurity_fundamentals_(palo).jpg)
+- [Deloitte Cybersecurity](./Certificates/deloitte_cybersec.jpg)
+- [Mastercard Cybersecurity](./Certificates/mastercard_cybersec.jpg)
+- [Network Fundamentals (Palo Alto)](./Certificates/network%20fundamentals%20(palo).jpg)
+- [CLDS](./Certificates/RAJESH%20MANTRI-CLDS.jpg)
+- [CYB](./Certificates/RAJESH%20MANTRI-CYB.jpg)
+- [CYES](./Certificates/RAJESH%20MANTRI-CYES.jpg)
+- [Packet Tracer](./Certificates/RAJESH%20MANTRI-PT.jpg)
+
 ---
