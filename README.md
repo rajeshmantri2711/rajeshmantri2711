@@ -34,7 +34,10 @@ This is my comprehensive home SOC lab.I deployed ` Wazuh ` (SIEM) and ` Suricata
 ---
 
 <div align="center">
-<h2>TryHackMe</h2>
+<h2>Labs and Challenges</h2>
+  Try Hack Me
+  Blue Team Labs Online
+  Hack The Box
 </div>
 
 ---
