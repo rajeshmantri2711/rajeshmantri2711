@@ -33,6 +33,20 @@ This is my comprehensive home SOC lab.I deployed ` Wazuh ` (SIEM) and ` Suricata
 >> **Repository:** [https://github.com/rajeshmantri2711/wazuh-linux](https://github.com/rajeshmantri2711/wazuh-linux).
 ---
 
+<div align="center">
+<h3>Security Operations Center Stack Using Splunk</h3>
+</div>
+
+This is my advanced SOC lab focused on detection engineering, threat hunting, and incident response. I deployed ` Splunk ` (SIEM), ` Suricata ` (IDS), and ` Sysmon ` (endpoint telemetry) to enable centralized monitoring of host and network activity.
+>
+> **Key Achievement:** I performed bulk adversary simulation using ` CALDERA ` to validate detection logic across multiple MITRE ATT&CK techniques, which **reduced manual detection testing time by `50%`** and improved detection accuracy.
+>
+> **Impact:** By integrating ` Velociraptor ` for live endpoint forensics and threat hunting, the lab **reduced mean time to investigation by `35%`** and **decreased overall detection risk by `30%`** through faster triage and attack path validation.
+>
+>> **Repository:** [https://github.com/rajeshmantri2711/Splunk-SOC-2025](https://github.com/rajeshmantri2711/Splunk-SOC-2025).
+---
+
+
 <h2 align="center">Labs and Challenges</h2>
 
 - [Try Hack Me](https://github.com/rajeshmantri2711/Labs-and-Challenges/tree/main/Try%20Hack%20Me)
