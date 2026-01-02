@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-0078D4?style=for-the-badge&logo=protectwise&logoColor=white" alt="Cybersecurity" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/IoT-5E5E5E?style=for-the-badge&logo=iot&logoColor=white" alt="IoT" />
 </p>
 
 ---
