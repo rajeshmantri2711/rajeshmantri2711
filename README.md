@@ -33,12 +33,11 @@ This is my comprehensive home SOC lab.I deployed ` Wazuh ` (SIEM) and ` Suricata
 >> **Repository:** [https://github.com/rajeshmantri2711/wazuh-linux](https://github.com/rajeshmantri2711/wazuh-linux).
 ---
 
-<div align="center">
-<h2>Labs and Challenges</h2>
-  Try Hack Me
-  Blue Team Labs Online
-  Hack The Box
-</div>
+<h2 align="center">Labs and Challenges</h2>
+
+- [Try Hack Me](https://github.com/rajeshmantri2711/Labs-and-Challenges/tree/main/Try%20Hack%20Me)
+- [Blue Team Labs Online](https://github.com/rajeshmantri2711/Labs-and-Challenges/tree/main/Blue%20Team%20Labs%20Online)
+- [Hack The Box](https://github.com/rajeshmantri2711/Labs-and-Challenges/tree/main/Hack%20The%20Box)
 
 ---
 
