@@ -40,8 +40,6 @@ This is my advanced SOC lab focused on detection engineering, threat hunting, an
 >
 > **Key Achievement:** I performed bulk adversary simulation using ` CALDERA ` to validate detection logic across multiple MITRE ATT&CK techniques, which **reduced manual detection testing time by `50%`** and improved detection accuracy.
 >
-> **Impact:** By integrating ` Velociraptor ` for live endpoint forensics and threat hunting, the lab **reduced mean time to investigation by `35%`** and **decreased overall detection risk by `30%`** through faster triage and attack path validation.
->
 >> **Repository:** [https://github.com/rajeshmantri2711/Splunk-SOC-2025](https://github.com/rajeshmantri2711/Splunk-SOC-2025).
 ---
 
