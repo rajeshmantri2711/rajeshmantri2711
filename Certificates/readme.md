@@ -1,5 +1,6 @@
 ## Certificates
 
+- [THM Pre Security](./THM_Pre_Security.png)
 - [Cisco AICTE](./Cisco_Aicte.jpg)
 - [CCNA: Introduction to Networks](./ccna%20introduction%20to%20networks.jpg)
 - [Cloud Security Fundamentals (Palo Alto)](./cloud%20security%20fundamentals%20(palo).jpg)
@@ -16,7 +17,9 @@
 
 ---
 
-
+<p align="center">
+  <img src="./THM_Pre_Security.png" alt="Cisco Aicte" style="max-width:900px; width:100%; height:auto;" />
+</p>
 
 <p align="center">
   <img src="./Cisco_Aicte.jpg" alt="Cisco Aicte" style="max-width:900px; width:100%; height:auto;" />
