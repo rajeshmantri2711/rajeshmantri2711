@@ -56,7 +56,7 @@ This is my advanced SOC lab focused on detection engineering, threat hunting, an
 <h2>Certifications & Badges</h2>
 </div>
 
-
+- [THM Pre Security](./Certificates/THM_Pre_Security.png)
 - [Cisco AICTE](./Certificates/Cisco_Aicte.jpg)
 - [CCNA: Introduction to Networks](./Certificates/ccna%20introduction%20to%20networks.jpg)
 - [Cloud Security Fundamentals (Palo Alto)](./Certificates/cloud%20security%20fundamentals%20(palo).jpg)
