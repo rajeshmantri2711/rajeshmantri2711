@@ -1,5 +1,5 @@
 ## Certificates
-
+- [Cyber Security 101](./Certificates/Cyber_Security_101.png)
 - [THM Pre Security](./THM_Pre_Security.png)
 - [Cisco AICTE](./Cisco_Aicte.jpg)
 - [CCNA: Introduction to Networks](./ccna%20introduction%20to%20networks.jpg)
@@ -19,6 +19,10 @@
 
 <p align="center">
   <img src="./THM_Pre_Security.png" alt="Cisco Aicte" style="max-width:900px; width:100%; height:auto;" />
+</p>
+
+<p align="center">
+  <img src="./Cyber_Security_101.png" alt="Cisco Aicte" style="max-width:900px; width:100%; height:auto;" />
 </p>
 
 <p align="center">
