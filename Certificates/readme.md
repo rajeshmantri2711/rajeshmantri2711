@@ -1,4 +1,5 @@
 ## Certificates
+- [SOC Level 1](./Certificates/SOC_Level_1.png)
 - [Cyber Security 101](./Certificates/Cyber_Security_101.png)
 - [THM Pre Security](./THM_Pre_Security.png)
 - [Cisco AICTE](./Cisco_Aicte.jpg)
@@ -16,6 +17,11 @@
 - [Packet Tracer](./RAJESH%20MANTRI-PT.jpg)
 
 ---
+
+<p align="center">
+  <img src="./SOC_Level_1.png" alt="Cisco Aicte" style="max-width:900px; width:100%; height:auto;" />
+</p>
+
 
 <p align="center">
   <img src="./THM_Pre_Security.png" alt="Cisco Aicte" style="max-width:900px; width:100%; height:auto;" />
