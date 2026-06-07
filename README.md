@@ -56,6 +56,7 @@ This is my advanced SOC lab focused on detection engineering, threat hunting, an
 <h2>Certifications & Badges</h2>
 </div>
 
+- [MCRTA](./Certificates/MCRTA.png)
 - [SOC Level 1](./Certificates/SOC_Level_1.png)
 - [THM Pre Security](./Certificates/THM_Pre_Security.png)
 - [Cyber Security 101](./Certificates/Cyber_Security_101.png)
