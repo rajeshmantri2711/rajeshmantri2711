@@ -20,21 +20,21 @@
 ---
 
 <p align="center">
-  <img src="./MCRTA.png" alt="Cisco Aicte" style="max-width:900px; width:100%; height:auto;" />
+  <img src="./MCRTA.png" alt="MCRTA" style="max-width:900px; width:100%; height:auto;" />
 </p>
 
 
 <p align="center">
-  <img src="./SOC_Level_1.png" alt="Cisco Aicte" style="max-width:900px; width:100%; height:auto;" />
+  <img src="./SOC_Level_1.png" alt="SOC_Level_1" style="max-width:900px; width:100%; height:auto;" />
 </p>
 
 
 <p align="center">
-  <img src="./THM_Pre_Security.png" alt="Cisco Aicte" style="max-width:900px; width:100%; height:auto;" />
+  <img src="./THM_Pre_Security.png" alt="THM_Pre_Security" style="max-width:900px; width:100%; height:auto;" />
 </p>
 
 <p align="center">
-  <img src="./Cyber_Security_101.png" alt="Cisco Aicte" style="max-width:900px; width:100%; height:auto;" />
+  <img src="./Cyber_Security_101.png" alt="Cyber_Security_101" style="max-width:900px; width:100%; height:auto;" />
 </p>
 
 <p align="center">
