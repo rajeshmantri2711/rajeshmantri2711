@@ -1,5 +1,5 @@
 ## Certificates
-- [MCRTA](./Certificates/CRTA.png)
+- [CRTA](./Certificates/CRTA.png)
 - [MCRTA](./Certificates/MCRTA.png)
 - [SOC Level 1](./Certificates/SOC_Level_1.png)
 - [Cyber Security 101](./Certificates/Cyber_Security_101.png)
