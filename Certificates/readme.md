@@ -1,4 +1,5 @@
 ## Certificates
+- [MCRTA](./Certificates/CRTA.png)
 - [MCRTA](./Certificates/MCRTA.png)
 - [SOC Level 1](./Certificates/SOC_Level_1.png)
 - [Cyber Security 101](./Certificates/Cyber_Security_101.png)
@@ -18,6 +19,9 @@
 - [Packet Tracer](./RAJESH%20MANTRI-PT.jpg)
 
 ---
+<p align="center">
+  <img src="./CRTA.png" alt="MCRTA" style="max-width:900px; width:100%; height:auto;" />
+</p>
 
 <p align="center">
   <img src="./MCRTA.png" alt="MCRTA" style="max-width:900px; width:100%; height:auto;" />
