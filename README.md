@@ -6,6 +6,9 @@
 <p align="center">As a cybersecurity enthusiast and Security Researcher i enjoy working on both sides of cybersecurity.</p>
 
 <p align="center">
+  <a href="https://github.com/rajeshmantri2711/rajeshmantri2711/tree/main/Certificates">
+    <img src="https://img.shields.io/badge/Certifications-4B0082?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Certifications" />
+  </a>
   <img src="https://img.shields.io/badge/Cybersecurity-0078D4?style=for-the-badge&logo=protectwise&logoColor=white" alt="Cybersecurity" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
