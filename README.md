@@ -13,6 +13,31 @@
 ---
 
 <div align="center">
+<h2>Certifications & Badges</h2>
+</div>
+- [Jr Penetration Tester](./Certificates/THM_JR_PT.png)
+- [CRTA](./Certificates/CRTA.png)
+- [MCRTA](./Certificates/MCRTA.png)
+- [SOC Level 1](./Certificates/SOC_Level_1.png)
+- [THM Pre Security](./Certificates/THM_Pre_Security.png)
+- [Cyber Security 101](./Certificates/Cyber_Security_101.png)
+- [Cisco AICTE](./Certificates/Cisco_Aicte.jpg)
+- [CCNA: Introduction to Networks](./Certificates/ccna%20introduction%20to%20networks.jpg)
+- [Cloud Security Fundamentals (Palo Alto)](./Certificates/cloud%20security%20fundamentals%20(palo).jpg)
+- [CyberOps](./Certificates/cyberops.jpg)
+- [Cybersecurity (IBM)](./Certificates/cybersecurityIBM.jpg)
+- [Cybersecurity Fundamentals (Palo Alto)](./Certificates/cybersecurity_fundamentals_(palo).jpg)
+- [Deloitte Cybersecurity](./Certificates/deloitte_cybersec.jpg)
+- [Mastercard Cybersecurity](./Certificates/mastercard_cybersec.jpg)
+- [Network Fundamentals (Palo Alto)](./Certificates/network%20fundamentals%20(palo).jpg)
+- [CLDS](./Certificates/RAJESH%20MANTRI-CLDS.jpg)
+- [CYB](./Certificates/RAJESH%20MANTRI-CYB.jpg)
+- [CYES](./Certificates/RAJESH%20MANTRI-CYES.jpg)
+- [Packet Tracer](./Certificates/RAJESH%20MANTRI-PT.jpg)
+
+---
+
+<div align="center">
 <h2>Projects</h2>
 </div>
 
@@ -49,30 +74,5 @@ This is my advanced SOC lab focused on detection engineering, threat hunting, an
 - [Try Hack Me](https://github.com/rajeshmantri2711/Labs-and-Challenges/tree/main/Try%20Hack%20Me)
 - [Blue Team Labs Online](https://github.com/rajeshmantri2711/Labs-and-Challenges/tree/main/Blue%20Team%20Labs%20Online)
 - [Hack The Box](https://github.com/rajeshmantri2711/Labs-and-Challenges/tree/main/Hack%20The%20Box)
-
----
-
-<div align="center">
-<h2>Certifications & Badges</h2>
-</div>
-
-- [CRTA](./Certificates/CRTA.png)
-- [MCRTA](./Certificates/MCRTA.png)
-- [SOC Level 1](./Certificates/SOC_Level_1.png)
-- [THM Pre Security](./Certificates/THM_Pre_Security.png)
-- [Cyber Security 101](./Certificates/Cyber_Security_101.png)
-- [Cisco AICTE](./Certificates/Cisco_Aicte.jpg)
-- [CCNA: Introduction to Networks](./Certificates/ccna%20introduction%20to%20networks.jpg)
-- [Cloud Security Fundamentals (Palo Alto)](./Certificates/cloud%20security%20fundamentals%20(palo).jpg)
-- [CyberOps](./Certificates/cyberops.jpg)
-- [Cybersecurity (IBM)](./Certificates/cybersecurityIBM.jpg)
-- [Cybersecurity Fundamentals (Palo Alto)](./Certificates/cybersecurity_fundamentals_(palo).jpg)
-- [Deloitte Cybersecurity](./Certificates/deloitte_cybersec.jpg)
-- [Mastercard Cybersecurity](./Certificates/mastercard_cybersec.jpg)
-- [Network Fundamentals (Palo Alto)](./Certificates/network%20fundamentals%20(palo).jpg)
-- [CLDS](./Certificates/RAJESH%20MANTRI-CLDS.jpg)
-- [CYB](./Certificates/RAJESH%20MANTRI-CYB.jpg)
-- [CYES](./Certificates/RAJESH%20MANTRI-CYES.jpg)
-- [Packet Tracer](./Certificates/RAJESH%20MANTRI-PT.jpg)
 
 ---
