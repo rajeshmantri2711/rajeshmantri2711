@@ -3,7 +3,7 @@
 </div>
 
 
-<p align="center">As a cybersecurity enthusiast, I'm always leveling up my skills, specializing in SOC operations and threat hunting. I'm passionate about engineering security solutions and love building hands-on projects.</p>
+<p align="center">As a cybersecurity enthusiast and Security Researcher i enjoy working on both sides of cybersecurity.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-0078D4?style=for-the-badge&logo=protectwise&logoColor=white" alt="Cybersecurity" />
