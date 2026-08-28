@@ -1,4 +1,5 @@
 ## Certificates
+- [Jr Penetration Tester](./Certificates/THM_JR_PT.png)
 - [CRTA](./Certificates/CRTA.png)
 - [MCRTA](./Certificates/MCRTA.png)
 - [SOC Level 1](./Certificates/SOC_Level_1.png)
@@ -19,6 +20,10 @@
 - [Packet Tracer](./RAJESH%20MANTRI-PT.jpg)
 
 ---
+<p align="center">
+  <img src="./THM_JR_PT.png" alt="MCRTA" style="max-width:900px; width:100%; height:auto;" />
+</p>
+
 <p align="center">
   <img src="./CRTA.png" alt="MCRTA" style="max-width:900px; width:100%; height:auto;" />
 </p>
