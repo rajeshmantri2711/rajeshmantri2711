@@ -29,7 +29,7 @@
 - [Cloud Security Fundamentals (Palo Alto)](./Certificates/cloud%20security%20fundamentals%20(palo).jpg)
 - [Cybersecurity Fundamentals (Palo Alto)](./Certificates/cybersecurity_fundamentals_(palo).jpg)
 - [Network Fundamentals (Palo Alto)](./Certificates/network%20fundamentals%20(palo).jpg)
-- [Security Operations Fundamentals](./Certificates/Security_Operations_Fundamentals%20(Palo%20Alto).png)
+- [Security Operations Fundamentals (Palo Alto)](./Certificates/Security_Operations_Fundamentals%20(Palo%20Alto).png)
 - [CCNA: Introduction to Networks](./Certificates/ccna%20introduction%20to%20networks.jpg)
 - [CyberOps](./Certificates/cyberops.jpg)
 - [Cybersecurity (IBM)](./Certificates/cybersecurityIBM.jpg)
