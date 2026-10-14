@@ -1,11 +1,11 @@
 ## Certificates
 
-- [Web Application Pentesting](./Certificates/web_1.png)
-- [Jr Penetration Tester](./Certificates/THM_JR_PT.png)
-- [CRTA](./Certificates/CRTA.png)
-- [MCRTA](./Certificates/MCRTA.png)
-- [SOC Level 1](./Certificates/SOC_Level_1.png)
-- [Cyber Security 101](./Certificates/Cyber_Security_101.png)
+- [Web Application Pentesting](./web_1.png)
+- [Jr Penetration Tester](./THM_JR_PT.png)
+- [CRTA](./CRTA.png)
+- [MCRTA](./MCRTA.png)
+- [SOC Level 1](./SOC_Level_1.png)
+- [Cyber Security 101](./Cyber_Security_101.png)
 - [THM Pre Security](./THM_Pre_Security.png)
 - [Cisco AICTE](./Cisco_Aicte.jpg)
 - [CCNA: Introduction to Networks](./ccna%20introduction%20to%20networks.jpg)
