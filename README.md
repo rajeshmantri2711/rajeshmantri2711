@@ -19,7 +19,7 @@
 <h2>Certifications & Badges</h2>
 </div>
 
-- [Jr Penetration Tester](./Certificates/web_1.png)
+- [Web Application Pentesting](./Certificates/web_1.png)
 - [Jr Penetration Tester](./Certificates/THM_JR_PT.png)
 - [CRTA](./Certificates/CRTA.png)
 - [MCRTA](./Certificates/MCRTA.png)
